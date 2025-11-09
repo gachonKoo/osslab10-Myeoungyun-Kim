@@ -1,6 +1,6 @@
-import sys [cite: 277]
-number = int(sys.argv[1]) [cite: 277]
-for i in range(1, number + 1): [cite: 277]
-    if number % i == 0: [cite: 277]
-        print(i, end=" ") [cite: 277]
-print() [cite: 277]
+import sys
+number = int(sys.argv[1])
+for i in range(1, number + 1):
+    if number % i == 0:
+        print(i, end=" ")
+print()
